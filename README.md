@@ -1,5 +1,6 @@
 <div>
-  <h1>Olá! <br> <small><strong>Eu sou o Lucas Galdino.</strong></small> </h1>
+  <h1>Olá!</h1> <br>
+  <h2><strong>Eu sou o Lucas Galdino.</strong></h2>
 </div>
 <div>
   <a href="https://beacons.ai/galdino01">
