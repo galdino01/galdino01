@@ -1,5 +1,5 @@
 <div>
-  <h1>Olá!<br><italic>Eu sou o Lucas Galdino.</italic></h1> 
+  <h1>Olá!<br><mark><i>Eu sou o Lucas Galdino.</i></mark></h1> 
   
 </div>
 <div>
