@@ -1,5 +1,6 @@
-## Olá! Eu sou o Lucas Galdino.
-
+<div>
+  <h2>Olá! Eu sou o Lucas Galdino.</h2>
+</div>
 <div>
   <a href="https://beacons.ai/galdino01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galdino01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
