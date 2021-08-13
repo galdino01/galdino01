@@ -27,7 +27,11 @@
   <a href = "https://twitter.com/this_galdino"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato.ogaldino@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-<div>![Snake animation](https://github.com/galdino01/galdino01/blob/output/github-contribution-grid-snake.svg)</div>
+<div>
+  
+  ![Snake animation](https://github.com/galdino01/galdino01/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 <div>
   <h3>Overview by: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></h3>
 </div>
