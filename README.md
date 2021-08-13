@@ -31,5 +31,5 @@
   
 </div>
 <div>
-  <h3>Overview by: <a href="https://github.com/rafaballerini">Rafa Balerini</a></h3>
+  <h3>Overview by: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></h3>
 </div>
