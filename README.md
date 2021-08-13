@@ -30,3 +30,6 @@
   ![Snake animation](https://github.com/galdino01/galdino01/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+<div>
+  <h3>Overview by: <a href="https://github.com/rafaballerini">Rafa Balerini</a></h3>
+</div>
