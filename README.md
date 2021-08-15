@@ -1,3 +1,9 @@
+<div align="center">
+	<br>
+		<img src="header.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
 <div>
   <a href="https://beacons.ai/galdino01">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=galdino01&show_icons=true&theme=dark&hide_border=1&include_all_commits=true&count_private=true"/>
