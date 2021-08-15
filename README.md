@@ -1,4 +1,4 @@
-<div>
+<div class="container d-flex justify-content-center align-items-center">
   <div>
 	  <br>
 	     <a><img src="header.svg" width="960" height="400"></a>
