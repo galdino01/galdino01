@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="author" content="Sam Norton">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-</head>
-
-<body>
-	
 <div>
   <br>
      <a><img src="header.svg" width="960" height="400"></a>
@@ -47,20 +32,9 @@
 </div>
 	
 <div>
-  
   ![Snake animation](https://github.com/galdino01/galdino01/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 	
 <div>
   <h3>Overview by: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></h3>
 </div>
-	
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-</body>
-
-</html>
-
-
-
