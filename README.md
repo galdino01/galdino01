@@ -1,13 +1,13 @@
 
 <div>
   <br>
-    <a><img src="header.svg" width="100%" height="400"></a>
+    <a><img src="header.svg" width="960" height="400"></a>
   <br>
 </div>
 <div>
   <a href="https://beacons.ai/galdino01"></a>
-    <img width="460" height="400" src="https://github-readme-stats.vercel.app/api?username=galdino01&show_icons=true&theme=dark&hide_border=1&include_all_commits=true&count_private=true"/>
-    <img width="385" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdino01&hide_border=1&layout=compact&langs_count=6&theme=dark"/>
+    <img width="460" height="200" src="https://github-readme-stats.vercel.app/api?username=galdino01&show_icons=true&theme=dark&hide_border=1&include_all_commits=true&count_private=true"/>
+    <img width="385" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdino01&hide_border=1&layout=compact&langs_count=6&theme=dark"/>
 </div>
 	
 <div style="display: inline_block"><br>
