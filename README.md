@@ -4,7 +4,7 @@
 	</a>
 	<br>
 </div>
-<div class="container d-flex flex-column">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <a href="https://beacons.ai/galdino01">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=galdino01&show_icons=true&theme=dark&hide_border=1&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdino01&hide_border=1&layout=compact&langs_count=6&theme=dark"/>
