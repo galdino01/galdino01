@@ -1,7 +1,7 @@
 <div>
   <div>
 	  <br>
-	     <a><img src="header.svg" width="960" height="400"></a>
+	     <a><img src="header.svg" width="980" height="400"></a>
 	  <br>
   </div>
   <a href="https://beacons.ai/galdino01">
