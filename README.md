@@ -45,5 +45,7 @@
 </div>
 	
 <div>
-  <h3>Overview by: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></h3>
+  <h3>Overview Inspired By: 
+	  <a href="https://github.com/rafaballerini">Rafaella Ballerini</a><br>
+	  <a href="https://github.com/teteusAraujo">Matheus Araújo</a></h3>
 </div>
