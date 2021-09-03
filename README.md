@@ -21,7 +21,7 @@
     	<img
 	     width="960"
 	     height="180" 
-	     src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdino01&hide_border=1&layout=compact&langs_count=6&theme=dark"
+	     src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdino01&hide_border=1&layout=compact&langs_count=6&count_private=true&theme=dark"
 	>
 		<a href="https://beacons.ai/galdino01" target="_blank"></a>
 	</img>
