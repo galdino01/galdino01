@@ -11,17 +11,20 @@
 </div>
 
 <div align="center">
-	<a href="https://beacons.ai/galdino01"></a>
     	<img
 	     width="960"
 	     height="180" 
 	     src="https://github-readme-stats.vercel.app/api?username=galdino01&show_icons=true&theme=dark&hide_border=1&include_all_commits=true&count_private=true"
-	/>
+	>
+		<a href="https://beacons.ai/galdino01" target="_blank"></a>
+	</img>
     	<img
 	     width="960"
 	     height="180" 
 	     src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdino01&hide_border=1&layout=compact&langs_count=6&theme=dark"
-	/>
+	>
+		<a href="https://beacons.ai/galdino01" target="_blank"></a>
+	</img>
 </div>
 
 ## Habilidades
@@ -92,7 +95,7 @@
 </div>
 
 ## Contato
-<div align="center"> 
+<div align="center">
   	<a href="https://www.linkedin.com/in/galdino-01" target="_blank">
 		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 	</a>
