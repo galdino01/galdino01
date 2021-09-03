@@ -1,16 +1,16 @@
-
-<div>
+<div align="center">
   <br>
     <a><img src="header.svg" width="960" height="400"></a>
   <br>
 </div>
-<div>
+
+<div align="center">
   <a href="https://beacons.ai/galdino01"></a>
     <img width="455" height="180" src="https://github-readme-stats.vercel.app/api?username=galdino01&show_icons=true&theme=dark&hide_border=1&include_all_commits=true&count_private=true"/>
     <img width="395" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdino01&hide_border=1&layout=compact&langs_count=6&theme=dark"/>
 </div>
 	
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <h2>Habilidades</h2>
   <img align="center" alt="Galdino-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Galdino-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,7 +22,7 @@
   <img align="center" alt="Galdino-LARAVEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
 </div>
  
-<div style="display: flex, justify-content: center, align-items: center,"> 
+<div align="center"> 
   <h2>Contato</h2>
   <a href="https://www.linkedin.com/in/galdino-01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/this.galdino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,6 +33,6 @@
 	
 </div>
 	
-<div>
+<div align="center">
   <h3>Overview by: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></h3>
 </div>
