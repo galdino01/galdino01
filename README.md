@@ -122,5 +122,7 @@
 		<a href="https://github.com/rafaballerini">Rafaella Ballerini</a>
 		+
 	  	<a href="https://github.com/teteusAraujo">Matheus Araújo</a>
+		+
+		<a href="https://github.com/juligaioso">Juliana Gaioso</a>
 	</h3>
 </div>
