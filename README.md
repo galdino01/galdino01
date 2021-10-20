@@ -92,6 +92,14 @@
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
   >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+       align="center" 
+       alt="Galdino-ReactNative" 
+       height="40" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+  >
 </div>
 
 ## Contato
