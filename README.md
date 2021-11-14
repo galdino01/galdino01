@@ -14,13 +14,6 @@
     	<img
 	     width="960"
 	     height="180" 
-	     src="https://github-readme-stats.vercel.app/api?username=galdino01&show_icons=true&theme=dark&hide_border=1&include_all_commits=true&count_private=true"
-	>
-		<a href="https://beacons.ai/galdino01" target="_blank"></a>
-	</img>
-    	<img
-	     width="960"
-	     height="180" 
 	     src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdino01&hide_border=1&layout=compact&langs_count=6&count_private=true&theme=dark"
 	>
 		<a href="https://beacons.ai/galdino01" target="_blank"></a>
