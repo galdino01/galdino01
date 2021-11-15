@@ -1,4 +1,4 @@
-<div align="center">
+<div align="top">
 	<br>
     	<a href="https://beacons.ai/galdino01" target="_blank">
 		<img 
