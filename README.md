@@ -1,23 +1,18 @@
 <div align="center">
 	<br>
-    	<a>
+    	<a href="https://beacons.ai/galdino01" target="_blank">
 		<img 
 			src="header.svg" 
 			width="960" 
 			height="400"
-		>
+		/>
+		<img
+	     		width="960"
+	     		height="180" 
+	    		src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdino01&hide_border=1&layout=compact&langs_count=6&count_private=true&theme=dark"
+		/>
 	</a>
   	<br>
-</div>
-
-<div align="center">
-    	<img
-	     width="960"
-	     height="180" 
-	     src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdino01&hide_border=1&layout=compact&langs_count=6&count_private=true&theme=dark"
-	>
-		<a href="https://beacons.ai/galdino01" target="_blank"></a>
-	</img>
 </div>
 
 ## Habilidades
