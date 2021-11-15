@@ -81,6 +81,8 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
   >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display: inline_block" align="center"><br>
   <img 
        align="center" 
        alt="Galdino-ReactNative" 
