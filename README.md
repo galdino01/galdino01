@@ -41,7 +41,7 @@
        alt="JAVASCRIPT" 
        height="40" 
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain-wordmark.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   >&nbsp;&nbsp;
 </div>
 <div style="display: inline_block" align="center"><br>
@@ -57,7 +57,7 @@
        alt="DJANGO" 
        height="40"
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"
   >&nbsp;&nbsp;
   <img 
        align="center"
