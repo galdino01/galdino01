@@ -17,58 +17,58 @@
 <div style="display: inline_block" align="center"><br>
   <img 
        align="center" 
-       alt="Galdino-JAVA" 
+       alt="JAVA" 
        height="40" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
   >&nbsp;&nbsp;
   <img 
        align="center" 
-       alt="Galdino-HTML" 
+       alt="HTML" 
        height="40" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
   >&nbsp;&nbsp;
   <img 
        align="center" 
-       alt="Galdino-CSS" 
+       alt="CSS" 
        height="40" 
        width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
   >&nbsp;&nbsp;
   <img 
        align="center" 
-       alt="Galdino-JS" 
+       alt="JAVASCRIPT" 
        height="40" 
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain-wordmark.svg"
   >&nbsp;&nbsp;
 </div>
 <div style="display: inline_block" align="center"><br>
   <img 
        align="center" 
-       alt="Galdino-PYTHON" 
+       alt="PYTHON" 
        height="40"
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   >&nbsp;&nbsp;
   <img 
        align="center" 
-       alt="Galdino-DJANGO" 
+       alt="DJANGO" 
        height="40"
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
   >&nbsp;&nbsp;
   <img 
        align="center"
-       alt="Galdino-PHP" 
+       alt="PHP" 
        height="40" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
   >&nbsp;&nbsp;
   <img 
        align="center" 
-       alt="Galdino-LARAVEL" 
+       alt="LARAVEL" 
        height="40" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
@@ -77,21 +77,21 @@
 <div style="display: inline_block" align="center"><br>
   <img 
        align="center" 
-       alt="Galdino-ReactNative" 
+       alt="REACTNATIVE" 
        height="40" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
   >&nbsp;&nbsp;
   <img 
        align="center" 
-       alt="Galdino-bootstrap" 
+       alt="BOOTSTRAP" 
        height="40" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
   >&nbsp;&nbsp;
   <img 
        align="center" 
-       alt="Galdino-Arduino" 
+       alt="ARDUINO" 
        height="40" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg"
