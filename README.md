@@ -77,6 +77,13 @@
 <div style="display: inline_block" align="center"><br>
   <img 
        align="center" 
+       alt="DOCKER" 
+       height="40" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+  >&nbsp;&nbsp;
+  <img 
+       align="center" 
        alt="REACTNATIVE" 
        height="40" 
        width="40" 
