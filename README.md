@@ -39,7 +39,7 @@
     <img align="center" alt="TAILWIND" height="40" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;&nbsp;
 </div>
-<div>
+<div style="display: inline_block" align="center"><br>
     <img align="center" alt="DOCKER" height="40" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;
 </div>
