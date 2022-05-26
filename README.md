@@ -57,6 +57,9 @@
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
             target="_blank" />
     </a>&nbsp;&nbsp;
+</div>
+
+<div align="center">
 
     ![Snake animation](https://github.com/galdino01/galdino01/blob/output/github-contribution-grid-snake.svg)
 
