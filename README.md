@@ -57,11 +57,9 @@
         <img align="center" alt="MAILTO"
             src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
-
-    ![Snake animation](https://github.com/galdino01/galdino01/blob/output/github-contribution-grid-snake.svg)
-
 </div>
-
+    
+![Snake animation](https://github.com/galdino01/galdino01/blob/output/github-contribution-grid-snake.svg)
 
 <div>
     <h3>Overview Inspired By:
