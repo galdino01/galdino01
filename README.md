@@ -105,17 +105,17 @@
   >&nbsp;&nbsp;
   <img 
        align="center" 
-       alt="ARDUINO" 
+       alt="Tailwind" 
        height="40" 
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original-wordmark.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
   >&nbsp;&nbsp;
   <img 
        align="center" 
-       alt="ARDUINO" 
+       alt="NextJS" 
        height="40" 
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
   >&nbsp;&nbsp;
 </div>
 
