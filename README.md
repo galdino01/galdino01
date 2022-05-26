@@ -108,7 +108,7 @@
        alt="Tailwind" 
        height="40" 
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
   >&nbsp;&nbsp;
   <img 
        align="center" 
