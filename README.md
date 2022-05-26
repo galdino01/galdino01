@@ -7,41 +7,43 @@
 </div>
 
 ## Habilidades
-<div style="display: inline_block" align="center"><br>
-    <img align="center" alt="PYTHON" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
-    <img align="center" alt="PHP" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;
-    <img align="center" alt="JAVASCRIPT" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
-    <img align="center" alt="TYPESCRIPT" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
-</div>
-<div style="display: inline_block" align="center"><br>
-    <img align="center" alt="DJANGO" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">&nbsp;&nbsp;
-    <img align="center" alt="LARAVEL" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">&nbsp;&nbsp;
-    <img align="center" alt="REACTNATIVE" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">&nbsp;&nbsp;
-    <img align="center" alt="NEXTJS" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">&nbsp;&nbsp;
-</div>
-<div style="display: inline_block" align="center"><br>
-    <img align="center" alt="HTML" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
-    <img align="center" alt="CSS" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
-    <img align="center" alt="BOOTSTRAP" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">&nbsp;&nbsp;
-    <img align="center" alt="ARDUINO" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">&nbsp;&nbsp;
-    <img align="center" alt="TAILWIND" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;&nbsp;
-</div>
-<div style="display: inline_block" align="center"><br>
-    <img align="center" alt="DOCKER" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;
+<div style="background-color: #fff; border-radius: 25px; padding: 5px;">
+    <div style="display: inline_block" align="center"><br>
+        <img align="center" alt="PYTHON" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
+        <img align="center" alt="PHP" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;
+        <img align="center" alt="JAVASCRIPT" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+        <img align="center" alt="TYPESCRIPT" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
+    </div>
+    <div style="display: inline_block" align="center"><br>
+        <img align="center" alt="DJANGO" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">&nbsp;&nbsp;
+        <img align="center" alt="LARAVEL" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">&nbsp;&nbsp;
+        <img align="center" alt="REACTNATIVE" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">&nbsp;&nbsp;
+        <img align="center" alt="NEXTJS" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">&nbsp;&nbsp;
+    </div>
+    <div style="display: inline_block" align="center"><br>
+        <img align="center" alt="HTML" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
+        <img align="center" alt="CSS" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
+        <img align="center" alt="BOOTSTRAP" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">&nbsp;&nbsp;
+        <img align="center" alt="ARDUINO" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">&nbsp;&nbsp;
+        <img align="center" alt="TAILWIND" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;&nbsp;
+    </div>
+    <div style="display: inline_block" align="center"><br>
+        <img align="center" alt="DOCKER" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;
+    </div>
 </div>
 
 ## Contato
@@ -50,6 +52,7 @@
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank">
     </a>&nbsp;&nbsp;
+    
     <a href="mailto:contato.ogaldino@hotmail.com">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
             target="_blank">
