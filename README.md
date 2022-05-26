@@ -61,7 +61,7 @@
 
 
     
-    ![Snake animation](https://github.com/galdino01/galdino01/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/galdino01/galdino01/blob/output/github-contribution-grid-snake.svg)
     
 
 
