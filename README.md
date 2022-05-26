@@ -59,12 +59,6 @@
     </a>&nbsp;&nbsp;
 </div>
 
-<div align="center">
-
-    ![Snake animation](https://github.com/galdino01/galdino01/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 <div>
     <h3>Overview Inspired By:
         <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>
