@@ -49,15 +49,22 @@
 ## Contato
 <div align="center">
     <a href="https://www.linkedin.com/in/galdino-01" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank" />
+        <img align="center" alt="LINKEDIN"
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            target="_blank">
     </a>&nbsp;&nbsp;
-
     <a href="mailto:contato.ogaldino@hotmail.com">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-            target="_blank" />
-    </a>&nbsp;&nbsp;
+        <img align="center" alt="MAILTO"
+            src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    </a>
 </div>
+
+<div align="center">
+
+    ![Snake animation](https://github.com/galdino01/galdino01/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 
 <div>
     <h3>Overview Inspired By:
