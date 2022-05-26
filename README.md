@@ -103,6 +103,20 @@
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg"
   >&nbsp;&nbsp;
+  <img 
+       align="center" 
+       alt="ARDUINO" 
+       height="40" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original-wordmark.svg"
+  >&nbsp;&nbsp;
+  <img 
+       align="center" 
+       alt="ARDUINO" 
+       height="40" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+  >&nbsp;&nbsp;
 </div>
 
 ## Contato
