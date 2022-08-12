@@ -17,6 +17,8 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
         <img align="center" alt="TYPESCRIPT" height="40" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
+        <img align="center" alt="FLUTTER" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">&nbsp;&nbsp;
     </div>
     <div style="display: inline_block" align="center"><br>
         <img align="center" alt="DJANGO" height="40" width="40"
@@ -27,6 +29,8 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">&nbsp;&nbsp;
         <img align="center" alt="NEXTJS" height="40" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">&nbsp;&nbsp;
+        <img align="center" alt="FLUTTER" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">&nbsp;&nbsp;
     </div>
     <div style="display: inline_block" align="center"><br>
         <img align="center" alt="HTML" height="40" width="40"
