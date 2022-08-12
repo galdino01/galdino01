@@ -39,12 +39,12 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
         <img align="center" alt="BOOTSTRAP" height="40" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">&nbsp;&nbsp;
-        <img align="center" alt="ARDUINO" height="40" width="40"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">&nbsp;&nbsp;
         <img align="center" alt="TAILWIND" height="40" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;&nbsp;
     </div>
     <div style="display: inline_block" align="center"><br>
+        <img align="center" alt="ARDUINO" height="40" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">&nbsp;&nbsp;
         <img align="center" alt="DOCKER" height="40" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;
     </div>
